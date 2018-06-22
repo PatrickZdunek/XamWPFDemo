@@ -255,7 +255,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "Xamarin.Forms/3.0.0.446417": {
+      "Xamarin.Forms/3.1.0.583944": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.1",
@@ -278,11 +278,24 @@
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.DataGrid/3.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.446417"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        }
+      },
       "XamWPFDemo/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
+          "Xamarin.Forms": "3.1.0.583944",
+          "Xamarin.Forms.DataGrid": "3.1.0"
         },
         "compile": {
           "bin/placeholder/XamWPFDemo.dll": {}
@@ -720,7 +733,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "Xamarin.Forms/3.0.0.446417": {
+      "Xamarin.Forms/3.1.0.583944": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.1",
@@ -743,11 +756,24 @@
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.DataGrid/3.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.446417"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        }
+      },
       "XamWPFDemo/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
+          "Xamarin.Forms": "3.1.0.583944",
+          "Xamarin.Forms.DataGrid": "3.1.0"
         },
         "compile": {
           "bin/placeholder/XamWPFDemo.dll": {}
@@ -1186,7 +1212,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "Xamarin.Forms/3.0.0.446417": {
+      "Xamarin.Forms/3.1.0.583944": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.1",
@@ -1209,11 +1235,24 @@
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.DataGrid/3.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.446417"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        }
+      },
       "XamWPFDemo/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
+          "Xamarin.Forms": "3.1.0.583944",
+          "Xamarin.Forms.DataGrid": "3.1.0"
         },
         "compile": {
           "bin/placeholder/XamWPFDemo.dll": {}
@@ -1477,7 +1516,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "Xamarin.Forms/3.0.0.446417": {
+      "Xamarin.Forms/3.1.0.583944": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.1",
@@ -1500,11 +1539,24 @@
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.DataGrid/3.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.446417"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        }
+      },
       "XamWPFDemo/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
+          "Xamarin.Forms": "3.1.0.583944",
+          "Xamarin.Forms.DataGrid": "3.1.0"
         },
         "compile": {
           "bin/placeholder/XamWPFDemo.dll": {}
@@ -1942,7 +1994,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "Xamarin.Forms/3.0.0.446417": {
+      "Xamarin.Forms/3.1.0.583944": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.1",
@@ -1965,11 +2017,24 @@
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.DataGrid/3.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.446417"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        }
+      },
       "XamWPFDemo/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
+          "Xamarin.Forms": "3.1.0.583944",
+          "Xamarin.Forms.DataGrid": "3.1.0"
         },
         "compile": {
           "bin/placeholder/XamWPFDemo.dll": {}
@@ -2408,7 +2473,7 @@
           "build/runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk.targets": {}
         }
       },
-      "Xamarin.Forms/3.0.0.446417": {
+      "Xamarin.Forms/3.1.0.583944": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.1",
@@ -2431,11 +2496,24 @@
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.DataGrid/3.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.446417"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        }
+      },
       "XamWPFDemo/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
+          "Xamarin.Forms": "3.1.0.583944",
+          "Xamarin.Forms.DataGrid": "3.1.0"
         },
         "compile": {
           "bin/placeholder/XamWPFDemo.dll": {}
@@ -2873,7 +2951,7 @@
           "runtimes/win10-x86/nativeassets/uap10.0.15138/clrcompression.dll": {}
         }
       },
-      "Xamarin.Forms/3.0.0.446417": {
+      "Xamarin.Forms/3.1.0.583944": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.1",
@@ -2896,11 +2974,24 @@
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.DataGrid/3.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.446417"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        }
+      },
       "XamWPFDemo/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
+          "Xamarin.Forms": "3.1.0.583944",
+          "Xamarin.Forms.DataGrid": "3.1.0"
         },
         "compile": {
           "bin/placeholder/XamWPFDemo.dll": {}
@@ -3339,7 +3430,7 @@
           "build/_._": {}
         }
       },
-      "Xamarin.Forms/3.0.0.446417": {
+      "Xamarin.Forms/3.1.0.583944": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.1",
@@ -3362,11 +3453,24 @@
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.DataGrid/3.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.446417"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        }
+      },
       "XamWPFDemo/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
+          "Xamarin.Forms": "3.1.0.583944",
+          "Xamarin.Forms.DataGrid": "3.1.0"
         },
         "compile": {
           "bin/placeholder/XamWPFDemo.dll": {}
@@ -6874,11 +6978,12 @@
         "runtimes/win10-x86/nativeassets/uap10.0.15138/clrcompression.dll"
       ]
     },
-    "Xamarin.Forms/3.0.0.446417": {
-      "sha512": "9Q6dING0FdSiOlsWUdNUzNiZgEljZ7rez5rn3+77+h0hfaFjSyV0tZQ1y2u2pXzRqgWNjDH3rrcCSoKgkMIxzA==",
+    "Xamarin.Forms/3.1.0.583944": {
+      "sha512": "q4AGFr8k9z6v5u++COV6M5TEZ8Oh8iiU3inVysapL5j75bhKfbcU2RizgZxTQ7+2CdlzVK+Dz+nyFx4JFh0Cwg==",
       "type": "package",
-      "path": "xamarin.forms/3.0.0.446417",
+      "path": "xamarin.forms/3.1.0.583944",
       "files": [
+        ".signature.p7s",
         "build/netstandard1.0/Mono.Cecil.Mdb.dll",
         "build/netstandard1.0/Mono.Cecil.Pdb.dll",
         "build/netstandard1.0/Mono.Cecil.Rocks.dll",
@@ -6903,6 +7008,8 @@
         "build/netstandard2.0/Xamarin.Forms.Xaml.dll",
         "build/netstandard2.0/Xamarin.Forms.props",
         "build/netstandard2.0/Xamarin.Forms.targets",
+        "lib/MonoAndroid10/Design/Xamarin.Forms.Core.Design.dll",
+        "lib/MonoAndroid10/Design/Xamarin.Forms.Xaml.Design.dll",
         "lib/MonoAndroid10/FormsViewGroup.dll",
         "lib/MonoAndroid10/FormsViewGroup.dll.mdb",
         "lib/MonoAndroid10/FormsViewGroup.pdb",
@@ -6916,10 +7023,14 @@
         "lib/MonoAndroid10/Xamarin.Forms.Xaml.dll",
         "lib/MonoAndroid10/Xamarin.Forms.Xaml.pdb",
         "lib/MonoAndroid10/Xamarin.Forms.Xaml.xml",
+        "lib/Xamarin.Mac/Design/Xamarin.Forms.Core.Design.dll",
+        "lib/Xamarin.Mac/Design/Xamarin.Forms.Xaml.Design.dll",
         "lib/Xamarin.Mac/Xamarin.Forms.Core.dll",
         "lib/Xamarin.Mac/Xamarin.Forms.Platform.dll",
         "lib/Xamarin.Mac/Xamarin.Forms.Platform.macOS.dll",
         "lib/Xamarin.Mac/Xamarin.Forms.Xaml.dll",
+        "lib/Xamarin.iOS10/Design/Xamarin.Forms.Core.Design.dll",
+        "lib/Xamarin.iOS10/Design/Xamarin.Forms.Xaml.Design.dll",
         "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll",
         "lib/Xamarin.iOS10/Xamarin.Forms.Core.pdb",
         "lib/Xamarin.iOS10/Xamarin.Forms.Core.xml",
@@ -6981,6 +7092,8 @@
         "lib/netstandard2.0/Xamarin.Forms.Xaml.dll",
         "lib/netstandard2.0/Xamarin.Forms.Xaml.pdb",
         "lib/netstandard2.0/Xamarin.Forms.Xaml.xml",
+        "lib/tizen40/Design/Xamarin.Forms.Core.Design.dll",
+        "lib/tizen40/Design/Xamarin.Forms.Xaml.Design.dll",
         "lib/tizen40/Xamarin.Forms.Core.dll",
         "lib/tizen40/Xamarin.Forms.Core.pdb",
         "lib/tizen40/Xamarin.Forms.Core.xml",
@@ -6990,6 +7103,8 @@
         "lib/tizen40/Xamarin.Forms.Xaml.dll",
         "lib/tizen40/Xamarin.Forms.Xaml.pdb",
         "lib/tizen40/Xamarin.Forms.Xaml.xml",
+        "lib/uap10.0/Design/Xamarin.Forms.Core.Design.dll",
+        "lib/uap10.0/Design/Xamarin.Forms.Xaml.Design.dll",
         "lib/uap10.0/Xamarin.Forms.Core.dll",
         "lib/uap10.0/Xamarin.Forms.Core.xml",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP.dll",
@@ -7004,13 +7119,24 @@
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/PageControlStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Properties/Xamarin.Forms.Platform.UAP.rd.xml",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Resources.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/SliderStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/TabbedPageStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Xamarin.Forms.Platform.UAP.xr.xml",
         "lib/uap10.0/Xamarin.Forms.Platform.dll",
         "lib/uap10.0/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.3.0.0.446417.nupkg.sha512",
+        "xamarin.forms.3.1.0.583944.nupkg.sha512",
         "xamarin.forms.nuspec"
+      ]
+    },
+    "Xamarin.Forms.DataGrid/3.1.0": {
+      "sha512": "CgeU+xc00bygM0PURoi63LoeOXYgLXFp12F4aLI4CgPipepWDPa8TOSXz4Bl7RC1IwdVyqZcSnNsZ9Q727qvsQ==",
+      "type": "package",
+      "path": "xamarin.forms.datagrid/3.1.0",
+      "files": [
+        "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll",
+        "xamarin.forms.datagrid.3.1.0.nupkg.sha512",
+        "xamarin.forms.datagrid.nuspec"
       ]
     },
     "XamWPFDemo/1.0.0": {
@@ -7023,7 +7149,7 @@
     "UAP,Version=v10.0.16299": [
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.0.1",
       "XamWPFDemo >= 1.0.0",
-      "Xamarin.Forms >= 3.0.0.446417"
+      "Xamarin.Forms >= 3.1.0.583944"
     ]
   },
   "packageFolders": {
@@ -7033,11 +7159,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patrickzdunek\\source\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.UWP\\XamWPFDemo.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\patrickzdunek\\Documents\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.UWP\\XamWPFDemo.UWP.csproj",
       "projectName": "XamWPFDemo.UWP",
-      "projectPath": "C:\\Users\\patrickzdunek\\source\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.UWP\\XamWPFDemo.UWP.csproj",
+      "projectPath": "C:\\Users\\patrickzdunek\\Documents\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.UWP\\XamWPFDemo.UWP.csproj",
       "packagesPath": "C:\\Users\\patrickzdunek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patrickzdunek\\source\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.UWP\\obj\\",
+      "outputPath": "C:\\Users\\patrickzdunek\\Documents\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7058,8 +7184,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\patrickzdunek\\source\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.csproj": {
-              "projectPath": "C:\\Users\\patrickzdunek\\source\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.csproj"
+            "C:\\Users\\patrickzdunek\\Documents\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.csproj": {
+              "projectPath": "C:\\Users\\patrickzdunek\\Documents\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.csproj"
             }
           }
         }
@@ -7074,7 +7200,7 @@
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[3.0.0.446417, )"
+            "version": "[3.1.0.583944, )"
           }
         },
         "imports": [

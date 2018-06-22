@@ -1,1 +1,1 @@
-C:\Users\patrickzdunek\source\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo.UWP\XamWPFDemo.UWP.csproj;x86
+C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo.UWP\XamWPFDemo.UWP.csproj;x86

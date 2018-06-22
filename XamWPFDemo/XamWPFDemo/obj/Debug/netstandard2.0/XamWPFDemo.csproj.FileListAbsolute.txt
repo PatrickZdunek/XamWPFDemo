@@ -19,7 +19,6 @@ C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debu
 C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\XamWPFDemo.csproj.CoreCompileInputs.cache
 C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\XamWPFDemo.AssemblyInfoInputs.cache
 C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\XamWPFDemo.AssemblyInfo.cs
-C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\XamWPFDemo.dll
 C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\XamWPFDemo.pdb
 C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\Views\MenuView.xaml.g.cs
@@ -29,3 +28,4 @@ C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debu
 C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\Views\ClientsView.xaml.g.cs
 C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\Views\ProjectsView.xaml.g.cs
 C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\Views\ToDoListView.xaml.g.cs
+C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\XamlC.stamp
