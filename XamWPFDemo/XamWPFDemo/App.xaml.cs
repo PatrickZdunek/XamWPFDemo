@@ -1,7 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
-using XamWPFDemo.Views;
 using Xamarin.Forms.Xaml;
+using XamWPFDemo.Views;
 
 [assembly: XamlCompilation (XamlCompilationOptions.Compile)]
 namespace XamWPFDemo
@@ -13,8 +13,8 @@ namespace XamWPFDemo
 		{
 			InitializeComponent();
 
-
-//			MainPage = new MainPage();
+            var np = new NavigationPage(new MenuView());
+			MainPage = np;
 		}
 
 		protected override void OnStart ()

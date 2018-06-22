@@ -352,11 +352,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patrickzdunek\\source\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.csproj",
+      "projectUniqueName": "C:\\Users\\patrickzdunek\\Documents\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.csproj",
       "projectName": "XamWPFDemo",
-      "projectPath": "C:\\Users\\patrickzdunek\\source\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.csproj",
+      "projectPath": "C:\\Users\\patrickzdunek\\Documents\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.csproj",
       "packagesPath": "C:\\Users\\patrickzdunek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patrickzdunek\\source\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo\\obj\\",
+      "outputPath": "C:\\Users\\patrickzdunek\\Documents\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
