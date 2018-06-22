@@ -1,0 +1,12 @@
+C:\Users\patrickzdunek\source\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\bin\Debug\netstandard2.0\XamWPFDemo.deps.json
+C:\Users\patrickzdunek\source\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\bin\Debug\netstandard2.0\XamWPFDemo.dll
+C:\Users\patrickzdunek\source\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\bin\Debug\netstandard2.0\XamWPFDemo.pdb
+C:\Users\patrickzdunek\source\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\XamWPFDemo.csprojAssemblyReference.cache
+C:\Users\patrickzdunek\source\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\XamWPFDemo.csproj.CoreCompileInputs.cache
+C:\Users\patrickzdunek\source\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\XamWPFDemo.AssemblyInfoInputs.cache
+C:\Users\patrickzdunek\source\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\XamWPFDemo.AssemblyInfo.cs
+C:\Users\patrickzdunek\source\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\XamWPFDemo.dll
+C:\Users\patrickzdunek\source\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\XamWPFDemo.pdb
+C:\Users\patrickzdunek\source\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\patrickzdunek\source\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\patrickzdunek\source\repos\XamWPFDemo\XamWPFDemo\XamWPFDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
