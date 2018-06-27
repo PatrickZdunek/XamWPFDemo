@@ -12,10 +12,10 @@ namespace XamWPFDemo
 		public MainPage()
 		{
 			InitializeComponent();
-            //if(Device.RuntimePlatform == Device.UWP)
+            //if (Device.RuntimePlatform == Device.UWP)
             //{
             //    MasterBehavior.Default;
             //}
-		}
+        }
 	}
 }
