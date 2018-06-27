@@ -262,3 +262,4 @@ C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo.WPF\obj\Debug\XamlC
 C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo.WPF\obj\Debug\XamWPFDemo.WPF.csproj.CopyComplete
 C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo.WPF\obj\Debug\XamWPFDemo.WPF.exe
 C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo.WPF\obj\Debug\XamWPFDemo.WPF.pdb
+C:\Users\patrickzdunek\Documents\repos\XamWPFDemo\XamWPFDemo.WPF\bin\Debug\Xamarin.Forms.DataGrid.dll

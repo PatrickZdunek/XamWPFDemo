@@ -125,11 +125,24 @@
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.DataGrid/3.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.446417"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        }
+      },
       "XamWPFDemo/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
+          "Xamarin.Forms": "3.1.0.583944",
+          "Xamarin.Forms.DataGrid": "3.1.0"
         },
         "compile": {
           "bin/placeholder/XamWPFDemo.dll": {}
@@ -263,11 +276,24 @@
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.DataGrid/3.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.446417"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        }
+      },
       "XamWPFDemo/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
+          "Xamarin.Forms": "3.1.0.583944",
+          "Xamarin.Forms.DataGrid": "3.1.0"
         },
         "compile": {
           "bin/placeholder/XamWPFDemo.dll": {}
@@ -401,11 +427,24 @@
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.DataGrid/3.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.446417"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        }
+      },
       "XamWPFDemo/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
+          "Xamarin.Forms": "3.1.0.583944",
+          "Xamarin.Forms.DataGrid": "3.1.0"
         },
         "compile": {
           "bin/placeholder/XamWPFDemo.dll": {}
@@ -539,11 +578,24 @@
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.DataGrid/3.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.446417"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll": {}
+        }
+      },
       "XamWPFDemo/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
+          "Xamarin.Forms": "3.1.0.583944",
+          "Xamarin.Forms.DataGrid": "3.1.0"
         },
         "compile": {
           "bin/placeholder/XamWPFDemo.dll": {}
@@ -694,6 +746,16 @@
         "xamarin.forms.nuspec"
       ]
     },
+    "Xamarin.Forms.DataGrid/3.1.0": {
+      "sha512": "CgeU+xc00bygM0PURoi63LoeOXYgLXFp12F4aLI4CgPipepWDPa8TOSXz4Bl7RC1IwdVyqZcSnNsZ9Q727qvsQ==",
+      "type": "package",
+      "path": "xamarin.forms.datagrid/3.1.0",
+      "files": [
+        "lib/netstandard2.0/Xamarin.Forms.DataGrid.dll",
+        "xamarin.forms.datagrid.3.1.0.nupkg.sha512",
+        "xamarin.forms.datagrid.nuspec"
+      ]
+    },
     "XamWPFDemo/1.0.0": {
       "type": "project",
       "path": "../XamWPFDemo/XamWPFDemo.csproj",
@@ -712,11 +774,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patrickzdunek\\source\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.iOS\\XamWPFDemo.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\patrickzdunek\\Documents\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.iOS\\XamWPFDemo.iOS.csproj",
       "projectName": "XamWPFDemo.iOS",
-      "projectPath": "C:\\Users\\patrickzdunek\\source\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.iOS\\XamWPFDemo.iOS.csproj",
+      "projectPath": "C:\\Users\\patrickzdunek\\Documents\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.iOS\\XamWPFDemo.iOS.csproj",
       "packagesPath": "C:\\Users\\patrickzdunek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patrickzdunek\\source\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.iOS\\obj\\",
+      "outputPath": "C:\\Users\\patrickzdunek\\Documents\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -734,8 +796,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\patrickzdunek\\source\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.csproj": {
-              "projectPath": "C:\\Users\\patrickzdunek\\source\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.csproj"
+            "C:\\Users\\patrickzdunek\\Documents\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.csproj": {
+              "projectPath": "C:\\Users\\patrickzdunek\\Documents\\repos\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo\\XamWPFDemo.csproj"
             }
           }
         }
@@ -762,5 +824,20 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 3.1.0.583944 to 3.0.0.446417. Reference the package directly from the project to select a different version. \r\n XamWPFDemo.iOS -> XamWPFDemo -> Xamarin.Forms (>= 3.1.0.583944) \r\n XamWPFDemo.iOS -> Xamarin.Forms (>= 3.0.0.446417)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
 }
